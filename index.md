@@ -5,3 +5,8 @@
 ```
   $ git clone https://github.com/fab-c14/Recognizer
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
